@@ -1,0 +1,10 @@
+# ignore .env file
+.env
+
+__pycache__
+
+.idea
+
+.pth
+
+.csv
