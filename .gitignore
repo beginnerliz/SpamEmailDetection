@@ -9,4 +9,4 @@
 
 *.csv
 
-./Model/bert-base-uncased/
+Model/bert-base-uncased/
