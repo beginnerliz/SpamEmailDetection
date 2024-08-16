@@ -8,3 +8,5 @@
 *.pth
 
 *.csv
+
+./Model/bert-base-uncased/
