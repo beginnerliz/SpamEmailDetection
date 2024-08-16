@@ -1,0 +1,36 @@
+train_paths:
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/combined_data.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/spam.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_0.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_1.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_2.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_3.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_4.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_5.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_6.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_7.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_8.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_9.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_10.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_11.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_12.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_13.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_14.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_15.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_16.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_17.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_18.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_19.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_20.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_21.csv
+#  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_22.csv
+#  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_23.csv
+#  - /Users/cuilili/Documents/Data/SpamIsHam/train/GPT_Rev_part_24.csv
+
+test_paths:
+#  - /Users/cuilili/Documents/Data/SpamIsHam/eval/CEAS_08.csv
+#  - /Users/cuilili/Documents/Data/SpamIsHam/eval/Enron.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/eval/Ling.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/eval/Nazario.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/eval/Nigerian_Fraud.csv
+  - /Users/cuilili/Documents/Data/SpamIsHam/eval/SpamAssasin.csv
